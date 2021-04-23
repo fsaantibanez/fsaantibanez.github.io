@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Predicción tasa cumplimiento y clusters despachos usando AdaBoostClassifier, GradientBoostingClassifier, DecisionTreeClassifier, LogisticRegression y K-Means
 
-[Project 1 Title](/sample_page)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](capstone_desafiolatam.html)
+[![Executive Business Review](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](resumen_ejecutivo_vfinal.pdf)
+
+Proyecto final de la carrera de Data Science de la  [Academia Desafío Latam](https://desafiolatam.com/data-science/).
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
