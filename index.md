@@ -11,13 +11,13 @@ El acceso de los datos fue a través de archivos planos que fueron ingestados en
 
 **Princpales hallazgos**
 
-* Existen 2 macrosegmentos de despachos, concentrándose principalmente en el grupo de clientes Empresa, con envíos regionales, distancias mayores a los 90 km y con un servicio de ir a buscar el producto donde el cliente mismo y repartirlo hasta a la puerta del cliente final.
+Existen 2 macrosegmentos de despachos, concentrándose principalmente en el grupo de clientes Empresa, con envíos regionales, distancias mayores a los 90 km y con un servicio de ir a buscar el producto donde el cliente mismo y repartirlo hasta a la puerta del cliente final.
 
-* Existen 15 tipos de despachos más propensos a no cumplir con la entrega y que conforman el 51% de la cartera y se dividen entre los pocos optimizados y patiperros.
+Existen 15 tipos de despachos más propensos a no cumplir con la entrega y que conforman el 51% de la cartera y se dividen entre los pocos optimizados y patiperros.
 
-* Desplegando el modelo en datos de diciembre 2020, se encontró que el Árbol de Decisión implementado mantuvo una estabilidad predictiva de un 72%, es decir, se tuvo una penalización con respecto a Agosto de -5pp.
+Desplegando el modelo en datos de diciembre 2020, se encontró que el Árbol de Decisión implementado mantuvo una estabilidad predictiva de un 72%, es decir, se tuvo una penalización con respecto a Agosto de -5pp.
 
-* Se definieron 4 clusters, siendo el de Los poco optimizados el más crítico, pues presenta una de las tasas más altas de fallidos, es el segundo grupo más grande y para el negocio es el más accionable.
+Se definieron 4 clusters, siendo el de Los poco optimizados el más crítico, pues presenta una de las tasas más altas de fallidos, es el segundo grupo más grande y para el negocio es el más accionable.
 
 
 
