@@ -30,7 +30,7 @@ El acceso de los datos fue a través de archivos planos que fueron ingestados en
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](spark_aws.html)
 
-En este proyecto se busca determinar en base al dataset de YELP, si un usuario registrado está molesto y por otro lado, la probabilidad de que un negocio cierre aplicando algoritmos de clasificación, regresión y extracción y selección de features de la librería Spark MLlib.
+En este proyecto se busca determinar en base al dataset de YELP, si un usuario registrado está insatisfecho y por otro lado, la probabilidad de que un negocio cierre aplicando algoritmos de clasificación, regresión y extracción y selección de features de la librería Spark MLlib.
 
 
 <img src="Captura de Pantalla 2021-04-23 a la(s) 20.36.34.png?raw=true"/>
