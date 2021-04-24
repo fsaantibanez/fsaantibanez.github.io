@@ -9,7 +9,7 @@
 Proyecto final de la carrera de Data Science de la [Academia Desafío Latam](https://desafiolatam.com/data-science/).
 El acceso de los datos fue a través de archivos planos que fueron ingestados en el bucket de Google Storage para luego transformarlos en tablas en BigQuery y su posterior preprocesamiento y modelamiento AI Unificado de Google Cloud Platform con el fin de aprovechar la persistencia de la herramienta.
 
-**Princpales hallazgos**
+**Princpales insights**
 
 1. Hay 4 segmentos de despachos: *Los business package, los enfocados, los patiperros y los pocos optimizados*,
 
@@ -25,8 +25,14 @@ El acceso de los datos fue a través de archivos planos que fueron ingestados en
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Predicción tasa cumplimiento y clusters despachos
+
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](spark_aws.html)
+
+
+<img src="Captura de Pantalla 2021-04-23 a la(s) 20.36.34.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
