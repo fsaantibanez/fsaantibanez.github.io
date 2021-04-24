@@ -49,19 +49,21 @@ En este proyecto se busca evaluar los sentimientos de los tweets del dataset de 
 
 ---
 
-### Category Name 2
+### Determinantes del ingreso
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](determinantes_ingreso.html)
+
+El objetivo es desarrollar un modelo predictivo sobre la probabilidad de que un individuo presente salarios por sobre o bajo los 50.000 dólares anuales, en base a una serie de atributos sociodemográficos.
+
+<img src="Captura de Pantalla 2021-04-23 a la(s) 22.04.34.png"/>
+
+
+
+
+
+
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
