@@ -11,15 +11,13 @@ El acceso de los datos fue a través de archivos planos que fueron ingestados en
 
 **Princpales hallazgos**
 
-Existen 2 macrosegmentos de despachos, concentrándose principalmente en el grupo de clientes Empresa, con envíos regionales, distancias mayores a los 90 km y con un servicio de ir a buscar el producto donde el cliente mismo y repartirlo hasta a la puerta del cliente final.
+Hay 4 segmentos de despachos: *Los business package, los enfocados, los patiperros y los pocos optimizados*,
 
 Existen 15 tipos de despachos más propensos a no cumplir con la entrega y que conforman el 51% de la cartera y se dividen entre los pocos optimizados y patiperros.
 
-Desplegando el modelo en datos de diciembre 2020, se encontró que el Árbol de Decisión implementado mantuvo una estabilidad predictiva de un 72%, es decir, se tuvo una penalización con respecto a Agosto de -5pp.
+El mejor modelo predictivo fue el DecisionTreeClassifier con un recall del 72%.
 
-Se definieron 4 clusters, siendo el de Los poco optimizados el más crítico, pues presenta una de las tasas más altas de fallidos, es el segundo grupo más grande y para el negocio es el más accionable.
-
-
+Los principales features son: *distancia_envio_mts, valor_contratado, horas_desde_creacion_hasta_compromiso, horas_desde_creacion_hasta_salida_primera_milla*
 
 
 <img src="principales hallazgos.png?raw=true"/> 
