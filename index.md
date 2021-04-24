@@ -42,7 +42,7 @@ En este proyecto se busca determinar en base al dataset de YELP, si un usuario r
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](sentiment_analysis.html)
 
-En este proyecto se busca evaluar los sentimientos de los tweets usando WordNetLemmatize, usando Pipeline e hiperparámetros.
+En este proyecto se busca evaluar los sentimientos de los tweets del dataset de CrowdFlower usando WordNetLemmatize, usando Pipeline e hiperparámetros.
 
 <img src="Captura de Pantalla 2021-04-23 a la(s) 21.48.59.png"/>
 
