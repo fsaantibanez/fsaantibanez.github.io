@@ -11,13 +11,13 @@ El acceso de los datos fue a través de archivos planos que fueron ingestados en
 
 **Princpales hallazgos**
 
-Hay 4 segmentos de despachos: *Los business package, los enfocados, los patiperros y los pocos optimizados*,
+1. Hay 4 segmentos de despachos: *Los business package, los enfocados, los patiperros y los pocos optimizados*,
 
-Existen 15 tipos de despachos más propensos a no cumplir con la entrega y que conforman el 51% de la cartera y se dividen entre los pocos optimizados y patiperros.
+2. Existen 15 tipos de despachos más propensos a no cumplir con la entrega y que conforman el 51% de la cartera y se dividen entre los pocos optimizados y patiperros.
 
-El mejor modelo predictivo fue el DecisionTreeClassifier con un recall del 72%.
+3. El mejor modelo predictivo fue el DecisionTreeClassifier con un recall del 72%.
 
-Los principales features son: *distancia_envio_mts, valor_contratado, horas_desde_creacion_hasta_compromiso, horas_desde_creacion_hasta_salida_primera_milla*
+4. Los principales features son: distancia_envio_mts, valor_contratado, horas_desde_creacion_hasta_compromiso, horas_desde_creacion_hasta_salida_primera_milla
 
 
 <img src="principales hallazgos.png?raw=true"/> 
