@@ -26,13 +26,16 @@ El acceso de los datos fue a través de archivos planos que fueron ingestados en
 
 ---
 
-### Predicción tasa cumplimiento y clusters despachos
-
+### Identificación usuarios molestos y potenciales cierre de negocios usando PySpark y Spark MLlib
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](spark_aws.html)
 
+En este proyecto se busca determinar en base al dataset de YELP, si un usuario registrado está molesto y por otro lado, la probabilidad de que un negocio cierre aplicando algoritmos de clasificación, regresión y extracción y selección de features de la librería Spark MLlib.
+
 
 <img src="Captura de Pantalla 2021-04-23 a la(s) 20.36.34.png?raw=true"/>
+
+
 
 ---
 [Project 3 Title](http://example.com/)
