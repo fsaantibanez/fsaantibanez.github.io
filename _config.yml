@@ -4,7 +4,7 @@ logo: "logofelipe.png?raw=true"
 
 description:
   <p align="center">
-  <a href="FelipeSoto_Resume_Data_Analyst_español.pdf">Resume</a> |
+  <a href="FelipeSoto_Resume_Data_Analyst_español.pdf">Currículum</a> |
   <a href="https://www.linkedin.com/in/fssantibanez/">LinkedIn</a> |
   <a href="https://github.com/fsaantibanez">GitHub</a>
   </p>
@@ -17,4 +17,4 @@ description:
   </p>
   
 theme: jekyll-theme-minimal
-google_analytics: UA-145578661-1 # Google Analytics tracking ID
+#google_analytics: UA-145578661-1 # Google Analytics tracking ID
